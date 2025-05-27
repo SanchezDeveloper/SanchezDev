@@ -8,3 +8,7 @@
   --cor-menu-g1: #776A7D
   --cor-menu-g2: #474747
 }
+
+html {
+  box-sizing: border-box;
+}

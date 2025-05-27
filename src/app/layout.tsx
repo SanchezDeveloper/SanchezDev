@@ -14,7 +14,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="bg-[var(--cor-light-purple)] mt">
+      <body className="bg-[var(--cor-light-purple)] text-[var(--cor-text-bg-light)]">
         <Header />
         {children}
       </body>
